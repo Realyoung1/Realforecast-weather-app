@@ -1,4 +1,4 @@
-Weather_Web_Application
+    Realforecast-weather-app
 
 This is weather application and i call it realforecast
 
@@ -9,7 +9,9 @@ Below are the list of Technologies Used
     HTML
     CSS
     JAVASCRIPT
+    VERCEL (I deployed my project from this cloud platform).
 
 Project Decription
+The project description can be found in the Google Slide Link
 
 The project description can be found in the Google Slide Link
