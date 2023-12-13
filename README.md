@@ -14,7 +14,7 @@ Below are the list of Technologies Used
 Project Decription
 The project description can be found in the Google Slide Link
 
-The project description can be found in the Google Slide Link
+The project description can be found in the [Google Slide Link](https://docs.google.com/presentation/d/1zRGtR9Nb_RpoH2hNjHq_2xoHJQhLxTMc1Wt8LDBr6oU/edit?usp=sharing)https://docs.google.com/presentation/d/1zRGtR9Nb_RpoH2hNjHq_2xoHJQhLxTMc1Wt8LDBr6oU/edit?usp=sharing
 
 
 Application Link
